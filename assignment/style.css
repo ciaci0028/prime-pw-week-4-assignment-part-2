@@ -1,3 +1,37 @@
 header {
-    background-color: aqua;
+    background-color: yellow;
 }
+
+.info {
+    background-color: red;
+    color: cornsilk;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+    background-color: darkblue;
+    color:darkgray;
+    width: 500px;
+    margin: 0 auto;
+}
+
+#whole {
+    border: 2px solid black;
+    border-width: 5px;
+    border-height: 
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid darkblue;
+  }
+
+#image {
+      text-align: center;
+  }
