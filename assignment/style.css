@@ -20,18 +20,18 @@ h3 {
 
 #whole {
     border: 2px solid black;
-    border-
-    border-height: 
 }
 
 img {
     max-width: 500px;
     height: auto;
-    text-align: center;
-    margin: 0 auto;
     border: 2px solid darkblue;
   }
 
-#image {
-      text-align: center;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 50%;
   }
